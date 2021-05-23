@@ -1,7 +1,9 @@
 ## My Chromia Adventures
 
 Winner of the MLH HackTheMidlands5.0 Game Jam - Guest Judge Prize
+
 Made by WrathTitan (Rishabh Bhatt) and Lancerlancing (Krittika Chillal)
+
 ---
 
 This is a game made for the MLH HackTheMidlands5.0 GameJam. The theme for the GameJam was - Unlimited Power.
