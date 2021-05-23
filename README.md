@@ -12,7 +12,9 @@ You are armed with the unlimited power of colouring the world. Only you can brin
 Collect different colour bottles and defeat the Mochromaniac's. In the progress colour the world as your see fit.
 
 ---
+
 Link to the Itch page - https://wrathtitan.itch.io/my-chromia-adventures
+
 Link to the Devpost submisson - https://devpost.com/software/my-chromia-adventures
 
 Note: This game may have bugs as it is made in a period of 72hrs.
